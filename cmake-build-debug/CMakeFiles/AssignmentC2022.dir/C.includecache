@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Joel/CLionProjects/AssignmentC2022/ERandACprogram.c
+stdio.h
+-
+conio.h
+-
+stdlib.h
+-
+mem.h
+-
+stdbool.h
+-
+headerForERandACprogram.h
+C:/Users/Joel/CLionProjects/AssignmentC2022/headerForERandACprogram.h
+
+C:/Users/Joel/CLionProjects/AssignmentC2022/headerForERandACprogram.h
+
